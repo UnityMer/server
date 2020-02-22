@@ -1,0 +1,16 @@
+{
+  "name": "server",
+  "version": "0.1.0",
+  "description": "访问本地html文件",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Mer 沫儿",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mime": "^2.4.4"
+  }
+}
